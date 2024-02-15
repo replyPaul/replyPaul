@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @replyPaul
-- 👀 I’m interested in AI for Good; Systemic Design for Societal issues; Emerging Tech like AR,XR; HCAI;
-- 🌱 I’m currently learning Data Science, Classical & Modern AI;
-- 💞️ I’m looking to collaborate on Social Entreprenuership; AR+AI solutions for elders;
+- 👋 Hi, I’m @replyPaul, an AI enthusiast. While I'm not a coder, I've explored various roles in my early career, including front-end engineer, games designer & developer, computer graphics engineer, usability engineer, and experience designer & architect. Over time, I transitioned into sr. practioner roles in technical and design consultancy.
+- 🌱 I’m currently learning about LLM applications to harness the power of modern AI to gear up my initiative ideas.
+- 👀 I’m now interested in AI for Good, systemic design for societal issues, and areas such as AR, CV, LVM, HCAI.
+- 💞️ I’m looking to collaborate on social entrepreneurship projects.
 - 📫 How to reach me ...via LinkedIn.com/in/paulbiswa
 
 <!---
