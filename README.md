@@ -20,9 +20,9 @@ Strategically deepening my knowledge across **frontier advancements**, exploring
 - **Embodied Intelligence** • **Autonomous Cognition** • **3D Geometric Reasoning**
 - **Causal AI** • **Decision Intelligence** • **Neuro-symbolic AI** • **Spatial Computing**
 - **Digital Twin**  •  **ROS/ROS2**  •  **AIRSIM**  •  **IMUs**, **ESC & Flight Controllers**
-- **HMI/HRI**  •  **Power Electronics**  •  **Google ADK** and other multi-modal agentic frameworks
 - **SLAM**  •  **Sensor Fusion**  •  **Edge AI**  • **UAVs & Aerial Intelligence**  • **Geospatial AI**
-- Exploring World or Vision-Action **Foundation Models** like **LBM**, **LWM**, **VLAM**, **VLM**, **LAM**, **LCM**, and **COSMOS **
+- **HMI/HRI**  •  **Power Electronics**  •  **Google ADK** and other multi-modal agentic frameworks
+- Exploring World Models or Vision-Action-Navigation related **Foundation Models** like **LBM**, **LWM**, **VLAM**, **VLM**, **LAM**, **LCM**, and **COSMOS**
 
 
 ---
