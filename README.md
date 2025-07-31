@@ -1,6 +1,6 @@
 
-🚀 About Me
-Exploring embodied intelligence, neuro-symbolic AI & autonomous systems for real-world impact.
+🚀 About Me: 
+Exploring embodied intelligence, neuro-symbolic AI and autonomous cognitive systems for real-world impact.
 
 
 👋 Hi, I’m a **human-centered technologist** and **interdisciplinary visionary**, actively shaping the future of intelligent systems and emerging technologies. I don’t fit the traditional coder archetype—and I never aimed to. My journey spans two decades across diverse yet interconnected IT areas in:
@@ -18,10 +18,10 @@ This eclectic curiosity-driven path has fueled my evolution into a senior practi
 Strategically deepening my knowledge across **frontier advancements**, exploring:
 
 - **Embodied Intelligence** • **Autonomous Cognition** • **3D Geometric Reasoning**
-- **Neuro-symbolic AI** • **Causal AI** • **Decision Intelligence** • **Spatial Computing**
-- **SLAM**  •  **Sensor Fusion**  •  **Edge Inferencing**  • **UAVs & Aerial Intelligence**
-- **Digital Twin**  •  **ROS/ROS2** •  **AIRSIM**, **IMU**  •  **ESC & Flight Controllers**
-- **HMI/HRI**  •  **Power Electronics**  •  **Google ADK** and other agentic frameworks 
+- **Causal AI** • **Decision Intelligence** • **Neuro-symbolic AI** • **Spatial Computing**
+- **Digital Twin**  •  **ROS/ROS2**  •  **AIRSIM**  •  **IMUs**, **ESC & Flight Controllers**
+- **HMI/HRI**  •  **Power Electronics**  •  **Google ADK** and other multi-modal agentic frameworks
+- **SLAM**  •  **Sensor Fusion**  •  **Edge AI**  • **UAVs & Aerial Intelligence**  • **Geospatial AI**
 - Exploring World or Vision-Action **Foundation Models** like **LBM**, **LWM**, **VLAM**, **VLM**, **LAM**, **LCM**, and **COSMOS **
 
 
