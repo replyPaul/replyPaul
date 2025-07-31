@@ -3,8 +3,8 @@
 Exploring embodied intelligence, neuro-symbolic AI and autonomous cognitive systems for real-world impact.
 
 
-👋 Hi, I’m a **human-centered technologist** and **interdisciplinary visionary**, actively exploting to shape the future of intelligent systems. 
-I don’t fit the traditional coder archetype—and I never aimed to. My journey spans two decades across diverse yet interconnected IT areas in:
+👋 Hi, I’m a **human-centered technologist** and **interdisciplinary visionary**, actively exploring deeptech & science to shape the future of intelligent systems. 
+   I don’t fit the traditional coder archetype—and I never aimed to. My journey spans across diverse yet interconnected IT areas in:
 
 🧠 Interaction Design & Development • Front-End Architecture • Usability Engineer  
 🌍 Enterprise Product Innovation Strategy (Techno-Functional Design) • Customer & User Experience
@@ -31,14 +31,13 @@ Strategically deepening my knowledge across **frontier advancements**, exploring
 
 🔬 In parallel, I’m refining **two real-world product innovations** for patenting and future startup ventures—leveraging or touching:
 
-- Large Foundation Models (FMs)
+- Large World Foundation Models (FMs)
 - Machine Learning & Computer Vision
+- 'Special' Neural Networks (SNNs)
 - IoT & Digital Twins
-- Spiking Neural Networks (SNNs)
-- Predictive, Neuro-symbolic & Embodied AI
-- GaN-based electronics
 - Cognitive Psychology
 - SDG & Sustainability frameworks
+- Predictive, Neuro-symbolic & Embodied AI
 
 🚁 I’m also actively researching with a team **out-of-the-box invention in autonomous mobility including drones**, integrating spatial, aerial, and embodied intelligence.
 
@@ -49,16 +48,17 @@ Strategically deepening my knowledge across **frontier advancements**, exploring
 I actively explore and integrate interdisciplinary knowledge across:
 
 - Artificial Intelligence (AI)
-- Computer Vision (CV)
+- Human-Comp/Machine/Robot Ix
 - Internet of Things (IoT)
-- Autonomus Machines 
-- Advanced Material Science
+- Computer Vision (CV)
+- Advanced Electronics
+- Autonomous Machines
+- Advanced Materials
 - Digital Twins
 - Green Energy
 - AR/VR
 - XAI
 
-  
 
 ---
 📫 Reach me via [LinkedIn](#) or explore my repos to see what I’m tinkering with.
