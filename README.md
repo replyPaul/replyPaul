@@ -3,7 +3,8 @@
 Exploring embodied intelligence, neuro-symbolic AI and autonomous cognitive systems for real-world impact.
 
 
-👋 Hi, I’m a **human-centered technologist** and **interdisciplinary visionary**, actively shaping the future of intelligent systems and emerging technologies. I don’t fit the traditional coder archetype—and I never aimed to. My journey spans two decades across diverse yet interconnected IT areas in:
+👋 Hi, I’m a **human-centered technologist** and **interdisciplinary visionary**, actively exploting to shape the future of intelligent systems. 
+I don’t fit the traditional coder archetype—and I never aimed to. My journey spans two decades across diverse yet interconnected IT areas in:
 
 🧠 Interaction Design & Development • Front-End Architecture • Usability Engineer  
 🌍 Enterprise Product Innovation Strategy (Techno-Functional Design) • Customer & User Experience
@@ -55,6 +56,8 @@ I actively explore and integrate interdisciplinary knowledge across:
 - Digital Twins
 - Green Energy
 - AR/VR
+- XAI
+
   
 
 ---
