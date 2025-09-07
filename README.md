@@ -4,13 +4,14 @@ Exploring embodied intelligence, neuro-symbolic AI and autonomous cognitive syst
 
 
 👋 Hi, I’m a **human-centered technologist** and **interdisciplinary visionary**, actively exploring deeptech & science to shape the future of intelligent systems. 
-   I don’t fit the traditional coder archetype—and I never aimed to. My journey spans across diverse yet interconnected IT areas in:
+   I don’t fit the traditional coder archetype—and I never aimed to - my hands-on primarily driven by curiosity and augemnt team management or FDE demands during client facing engazements. 
+   My **earlier** journey spans across diverse yet interconnected IT areas in:
 
-🧠 Interaction Design & Development • Front-End Architecture • Usability Engineer  
-🌍 Enterprise Product Innovation Strategy (Techno-Functional Design) • Customer & User Experience
-🎨 Multimedia Design • 3D Modeling • Games Design • Computer Graphics Engineer
+🧠 Interaction Design & Development • Front-End Architecture • Usability Engineering • UI & Information Architecture • SEO & FEO in few projects
+🌍 Enterprise Product Innovation Strategy (Techno-Functional Design) • End to end Customer & User Experience (CX & UX)
+🎨 3D Modeling • Multimedia Design • Computer Graphics Engineering • Games Design 
 
-This eclectic curiosity-driven path has fueled my evolution into a senior practitioner in **technical architecture** and **design consultancy**, 
+This **eclectic curiosity-driven path** has fueled my evolution into a senior practitioner in **technical architecture** and **design consultancy**, 
 
 
 ---
@@ -37,7 +38,7 @@ Strategically deepening my knowledge across **frontier advancements**, exploring
 - IoT & Digital Twins
 - Cognitive Psychology
 - SDG & Sustainability frameworks
-- Predictive, Neuro-symbolic & Embodied AI
+- Predictive, Neuro-symbolic, Causal, and Embodied AI
 
 🚁 I’m also actively researching with a team **out-of-the-box invention in autonomous mobility including drones**, integrating spatial, aerial, and embodied intelligence.
 
