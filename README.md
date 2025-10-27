@@ -7,7 +7,7 @@ About Me:
 
 🧭  **Strategy, Experience & Business Design** • Product Innovation Strategy & Management • Pre-Sales & Techno-Functional Design • FDE Consultation • Customer Experience (CX) & User Experience (UX)  
 🧠  **Design Systems & Engineering** • Interaction Design & Front-End Development • UI Architecture & Information Architecture • SEO & FEO (Front-End Optimization) • Usability Engineering • Design Leadership & Systemic Design • Diverse Thinking Principles  • Sustainibility in Design
-🎨  **🎨 Visual & Immersive Media** • 3D Modeling and Computer Graphics Engineering • Graphic Design • Games Design 
+🎨  **Visual & Immersive Media** • 3D Modeling and Computer Graphics Engineering • Graphic Design • Games Design 
 
 This **eclectic curiosity-driven path** has fueled my evolution into a senior practitioner in **technical architecture** and **design consultancy**, 
 
