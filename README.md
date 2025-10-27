@@ -15,7 +15,7 @@ This **eclectic curiosity-driven path** has fueled my evolution into a senior pr
 
 
 ---
-## 🌱 Current Focus
+## 🌱 Recent Explorations
 
 Strategically deepening my knowledge across **frontier advancements**, exploring:
 
@@ -23,24 +23,23 @@ Strategically deepening my knowledge across **frontier advancements**, exploring
 - **Causal AI** • **Decision Intelligence** • **Neuro-symbolic AI** • **Spatial Computing**
 - **Digital Twin**  •  **ROS/ROS2**  •  **AIRSIM**  •  **IMUs**, **ESC & Flight Controllers**
 - **SLAM**  •  **Sensor Fusion**  •  **Edge AI**  • **UAVs & Aerial Intelligence**  • **Geospatial AI**
-- **HMI/HRI**  •  **Power Electronics**  •  **Google ADK** and other multi-modal agentic frameworks
+- **HMI/HR/HCII**  •  **Power Electronics**  •  **Google ADK**, **MCP** and other multi-modal agentic frameworks
 - Exploring World Models or Vision-Action-Navigation related **Foundation Models** like **LBM**, **LWM**, **VLAM**, **VLM**, **LAM**, **LCM**, and **COSMOS**
 
 
 ---
-## 🧪 Current Initiatives
+## 🧪 Current Side Initiatives
 
-🔬 In parallel, I’m refining **two real-world product innovations** for patenting and future startup ventures—leveraging or touching:
+🔬 In parallel, I’m refining **two real-world product innovations** for patenting as side-gig, leveraging :
 
 - Large World Foundation Models (FMs)
 - Machine Learning & Computer Vision
 - 'Special' Neural Networks (SNNs)
 - IoT & Digital Twins
-- Cognitive Psychology
 - SDG & Sustainability frameworks
 - Predictive, Neuro-symbolic, Causal, and Embodied AI
 
-🚁 I’m also actively researching with a team **out-of-the-box invention in autonomous mobility including drones**, integrating spatial, aerial, and embodied intelligence.
+🚁 I’m also researching with a team **out-of-the-box invention in autonomous mobility including drones**, integrating spatial, aerial, and embodied intelligence.
 
 
 ---
@@ -48,13 +47,12 @@ Strategically deepening my knowledge across **frontier advancements**, exploring
 
 I actively explore and integrate interdisciplinary knowledge across:
 
-- Artificial Intelligence (AI)
-- Human-Comp/Machine/Robot Ix
+- Agentic on-demand Decision Intelligence
+- Human-Comp/Machine/Robot Interaction
 - Internet of Things (IoT)
-- Computer Vision (CV)
 - Advanced Electronics
-- Autonomous Machines
-- Advanced Materials
+- Autonomous Agents
+- Adv. Materials
 - Digital Twins
 - Green Energy
 - AR/VR
