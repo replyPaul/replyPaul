@@ -17,10 +17,10 @@ This **eclectic curiosity-driven path** has fueled my evolution into a senior pr
 
 ## 🌱 AI Expertise & Applied Innovation
 
-- # 🔍 Core AI Domains: Transformer Architectures • AI Product Management • Generative AI Lifecycle • Responsible Model Governance • Explainable AI • Agentric AI • Multimodal AI • Conversational AI • Decision Intelligence
-- # 🧠 LLMs & Optimization: Fine-Tuning • PEFT • Soft Prompting • RLHF • PPO • Deep Reinforcement Learning  • Chain-of-Thought (CoT) • Tree-of-Thought (ToT) • Graph-of-Thought (GoT) Reasoning
-- # 🧮 Data & Intelligence Engineering: Retrieval-Augmented Generation (RAG) • Vector Embeddings  • Knowledge Graphs / DAGs • Python 3.x TensorFlow • PyTorch • Streamlit • Gradio • Cursor • VS Code
-- # 👁️ Computer Vision & Visual Intelligence: Vision Transformers (ViT) • Visual Prompting • Landing Lens Platform • Vision Agents • Geospatial AI • Image Processing • Confusion Matrix Analysis • ICR / IDP / OCR • YOLO Object Detection
+- ### 🔍 Core AI Domains: Transformer Architectures • AI Product Management • Generative AI Lifecycle • Responsible Model Governance • Explainable AI • Agentric AI • Multimodal AI • Conversational AI • Decision Intelligence
+- ### 🧠 LLMs & Optimization: Fine-Tuning • PEFT • Soft Prompting • RLHF • PPO • Deep Reinforcement Learning  • Chain-of-Thought (CoT) • Tree-of-Thought (ToT) • Graph-of-Thought (GoT) Reasoning
+- ### 🧮 Data & Intelligence Engineering: Retrieval-Augmented Generation (RAG) • Vector Embeddings  • Knowledge Graphs / DAGs • Python 3.x TensorFlow • PyTorch • Streamlit • Gradio • Cursor • VS Code
+- ### 👁️ Computer Vision & Visual Intelligence: Vision Transformers (ViT) • Visual Prompting • Landing Lens Platform • Vision Agents • Geospatial AI • Image Processing • Confusion Matrix Analysis • ICR / IDP / OCR • YOLO Object Detection
 
 ---
 ## 🤖 Side Explorations
