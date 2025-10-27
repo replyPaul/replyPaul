@@ -1,15 +1,13 @@
 
-🚀 About Me: 
-Exploring embodied intelligence, neuro-symbolic AI and autonomous cognitive systems for real-world impact.
+About Me: 
+👋  Hi, I’m a **human-centered technologist** and **interdisciplinary visionary**, actively exploring deeptech & science to shape the future of intelligent systems. 
+    I don’t fit the traditional coder archetype —and I never aimed to. My hands-on work is primarily driven by curiosity and shaped by team leadership or FDE (Forward Deployed Engineer) kinda demands during client-facing engagements.
 
+🌍  My **two-decade journey** spans diverse yet interconnected domains across IT, design, and innovation: 
 
-👋 Hi, I’m a **human-centered technologist** and **interdisciplinary visionary**, actively exploring deeptech & science to shape the future of intelligent systems. 
-   I don’t fit the traditional coder archetype—and I never aimed to - my hands-on primarily driven by curiosity and augemnt team management or FDE demands during client facing engazements. 
-   My **earlier** journey spans across diverse yet interconnected IT areas in:
-
-🧠 Interaction Design & Development • Front-End Architecture • Usability Engineering • UI & Information Architecture • SEO & FEO in few projects
-🌍 Enterprise Product Innovation Strategy (Techno-Functional Design) • End to end Customer & User Experience (CX & UX)
-🎨 3D Modeling • Multimedia Design • Computer Graphics Engineering • Games Design 
+🧭  **Strategy, Experience & Business Design** • Product Innovation Strategy & Management • Pre-Sales & Techno-Functional Design • FDE Consultation • Customer Experience (CX) & User Experience (UX)  
+🧠  **Design Systems & Engineering** • Interaction Design & Front-End Development • UI Architecture & Information Architecture • SEO & FEO (Front-End Optimization) • Usability Engineering • Design Leadership & Systemic Design • Diverse Thinking Principles  • Sustainibility in Design
+🎨  **🎨 Visual & Immersive Media** • 3D Modeling and Computer Graphics Engineering • Graphic Design • Games Design 
 
 This **eclectic curiosity-driven path** has fueled my evolution into a senior practitioner in **technical architecture** and **design consultancy**, 
 
