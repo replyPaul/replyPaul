@@ -13,9 +13,17 @@ About Me:
 
 This **eclectic curiosity-driven path** has fueled my evolution into a senior practitioner in **technical architecture** and **design consultancy**, 
 
+---
+
+## 🌱 AI Expertise & Applied Innovation
+
+- # 🔍 Core AI Domains: Transformer Architectures • AI Product Management • Generative AI Lifecycle • Responsible Model Governance • Explainable AI • Agentric AI • Multimodal AI • Conversational AI • Decision Intelligence
+- # 🧠 LLMs & Optimization: Fine-Tuning • PEFT • Soft Prompting • RLHF • PPO • Deep Reinforcement Learning  • Chain-of-Thought (CoT) • Tree-of-Thought (ToT) • Graph-of-Thought (GoT) Reasoning
+- # 🧮 Data & Intelligence Engineering: Retrieval-Augmented Generation (RAG) • Vector Embeddings  • Knowledge Graphs / DAGs • Python 3.x TensorFlow • PyTorch • Streamlit • Gradio • Cursor • VS Code
+- # 👁️ Computer Vision & Visual Intelligence: Vision Transformers (ViT) • Visual Prompting • Landing Lens Platform • Vision Agents • Geospatial AI • Image Processing • Confusion Matrix Analysis • ICR / IDP / OCR • YOLO Object Detection
 
 ---
-## 🌱 Recent Explorations
+## 🤖 Side Explorations
 
 Strategically deepening my knowledge across **frontier advancements**, exploring:
 
@@ -28,33 +36,32 @@ Strategically deepening my knowledge across **frontier advancements**, exploring
 
 
 ---
-## 🧪 Current Side Initiatives
+## 🧪 Applied Forward-looking Experiments
 
 🔬 In parallel, I’m refining **two real-world product innovations** for patenting as side-gig, leveraging :
 
+- Predictive, Neuro-symbolic, Causal, and Embodied AI'
+- Internet of Things(IoT) and Digital Twins
 - Large World Foundation Models (FMs)
 - Machine Learning & Computer Vision
 - 'Special' Neural Networks (SNNs)
-- IoT & Digital Twins
-- SDG & Sustainability frameworks
-- Predictive, Neuro-symbolic, Causal, and Embodied AI
+- SDG & Sustainability 
 
-🚁 I’m also researching with a team **out-of-the-box invention in autonomous mobility including drones**, integrating spatial, aerial, and embodied intelligence.
+🚁 I’m also researching with a team **out-of-the-box invention in autonomous agentic mobility**, integrating spatial, aerial, and embodied intelligence.
 
 
 ---
 ## 👀 Broader Interests
 
-I actively explore and integrate interdisciplinary knowledge across:
+I try to explore and integrate interdisciplinary knowledge across:
 
-- Agentic on-demand Decision Intelligence
+- Autonomous, Cognitively Intelligent Agents
+- Agentic, on-demand Decision Intelligence
 - Human-Comp/Machine/Robot Interaction
-- Internet of Things (IoT)
+- Green Energy (Solar / Hydrogen)
+- Adv. Materials, Nanotech
 - Advanced Electronics
-- Autonomous Agents
-- Adv. Materials
 - Digital Twins
-- Green Energy
 - AR/VR
 - XAI
 
