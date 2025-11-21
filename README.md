@@ -3,14 +3,15 @@
 
 👋 Hi, I’m a **human-centered technologist** and **interdisciplinary visionary thinker**, actively exploring deep tech and science to shape the future of intelligent systems. 
 
-- I don’t fit the traditional coder archetype—and I never aimed to. As an AI Product Leader and Strategist, my hands-on experience in AI is primarily driven by curiosity and the necessity of team leadership for productive cross-collaboration. 
+- I don’t fit the traditional coder archetype—and I never aimed to. As an AI Product Leader and Strategist, my **hands-on experience in AI is primarily driven by curiosity and the necessity of team leadership for productive cross-collaboration**. 
 - My earlier hands-on experience in IT Solutions Architecture (before AI) was primarily shaped by the demands of a Forward Deployed Engineer (FDE) during client-facing engagements and as a Distinguished Front-End Engineer.
-- I have worn multiple hats and played various roles in parallel for diverse international consultations in **Product Innovation Strategy, Vision, and Management**; **Pre-Sales**; **Techno-Functional Design**; and **Customer Experience (CX) / User Experience (UX) Consultation**.
+- I have worn multiple hats and played various roles in parallel for diverse international consultations in **Product Innovation Strategy, Management and Vision**; **Pre-Sales**; **Techno-Functional Design**; and **Customer Experience (CX) / User Experience (UX) Consultation**.
 
-## 🌱 AI Expertise & Applied Innovation
+
+## 🌱 AI Expertise, AI Product Management and Applied Innovation
 
 - ### 🔍 Core AI Domains: 
-  - Transformer Architectures • AI Product Management • Generative AI Lifecycle • Responsible Model Governance • Explainable AI • Agentric AI • Multimodal AI • Conversational AI • Decision Intelligence
+  - Transformer Architectures • Generative AI Lifecycle • Responsible Model Governance • Explainable AI • Agentric AI • Multimodal AI • Conversational AI • Decision Intelligence
 
 - ### 🧮 Data & Intelligence Engineering: 
   - Retrieval-Augmented Generation (RAG) • Vector Embeddings • basics Knowledge Graphs / DAGs • Python 3.x • TensorFlow • PyTorch • Streamlit • Gradio • Pycharm • Cursor • VS Code
@@ -30,9 +31,9 @@ Strategically deepening my knowledge with supplementary interests alongside core
 - **Autonomous Cognition** • Embodied Intelligence • 3D Geometric Reasoning
 - **HMI / HRI / HCI • **Google ADK**, **MCP**, and other multi-modal agentic frameworks
 - **Causal AI** • **Decision Intelligence** • **Neuro-symbolic AI** • **Spatial Computing**
-- **SLAM** • **Sensor Fusion and Internet of Things (IoT)** • **Edge AI** • **UAVs & Aerial Intelligence
-- **Digital Twin** • **ROS/ROS2 • **AIRSIM • **IMU, ESC & Flight Controllers • **Power Electronics 
-- Exploring Vision-Action-Navigation related **World Foundation Models** such as **LBM,**LWM,**VLAM,**VLM,**LAM,**LCM, **COSMOS
+- **SLAM** • **Sensor Fusion and Internet of Things (IoT)** • **Edge AI** • UAVs & Aerial Intelligence
+- **Digital Twin** • ROS/ROS2 • AIRSIM • IMU, ESC & Flight Controllers • Power Electronics 
+- Exploring Vision-Action-Navigation related **World Foundation Models** such as LBM,LWM,VLAM,VLM,LAM,LCM,COSMOS
 
 ---
 
