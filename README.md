@@ -103,7 +103,6 @@ I don't build security systems - **I add the cognitive layer that makes systems 
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 
-- **Physics-Informed Neural Networks** - Domain knowledge integration for robust modeling
 - **Multi-Agent Orchestration Systems** - LangChain/LangGraph, AutoGen, CrewAI, ReAct, MCP/ADK
 - **Causal Inference + Intervention Engines** - Causal reasoning, neuro-symbolic integration, decision frameworks
 - **LLM Optimization** - Fine-tuning (PEFT, RLHF, PPO), RAG, Vector Embeddings, Prompt Engineering
@@ -179,7 +178,6 @@ I don't build security systems - **I add the cognitive layer that makes systems 
 **Advanced AI Systems:**
 - Vision-Language-Action (VLA) Models: VLAM, VLM, LAM, LCM, COSMOS
 - Large World Models for spatial understanding and navigation
-- Physics-Informed Neural Networks for engineering applications
 - Spiking Neural Networks (SNNs) for neuromorphic computing
 
 **Cross-Domain Intelligence:**
