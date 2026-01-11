@@ -40,12 +40,12 @@ Traditional Security    →    Cognitive Enhancement
 I don't build systems - **I architect the cognitive intelligence layer** that makes them think, predict, and adapt. 
 T
 he **CogniFenceX approach** transforms domains through:
-🔒 Cybersecurity - Real-time threat detection, credential compromise prevention, automated incident response, zero-trust enforcement
-🏭 Industrial IoT - Predictive maintenance, equipment failure prediction, quality anomaly detection, production optimization
-📦 Supply Chain - Disruption prediction, dynamic route optimization, inventory intelligence, supplier risk assessment
-💵 Fintech - Fraud detection, account takeover prevention, transaction anomaly detection, behavioral risk scoring
-🏥 Healthcare - Patient risk stratification, early disease detection, clinical decision support, diagnostic anomaly flagging
-🛰️ Space & Defense - Satellite anomaly detection, orbital threat assessment, space surveillance intelligence
+- 🔒 Cybersecurity - Real-time threat detection, credential compromise prevention, automated incident response, zero-trust enforcement
+- 🏭 Industrial IoT - Predictive maintenance, equipment failure prediction, quality anomaly detection, production optimization
+- 📦 Supply Chain - Disruption prediction, dynamic route optimization, inventory intelligence, supplier risk assessment
+- 💵 Fintech - Fraud detection, account takeover prevention, transaction anomaly detection, behavioral risk scoring
+- 🏥 Healthcare - Patient risk stratification, early disease detection, clinical decision support, diagnostic anomaly flagging
+- 🛰️ Space & Defense - Satellite anomaly detection, orbital threat assessment, space surveillance intelligence
 
 **Tech Stack:** 
  Python • LangChain • LangGraph • PyTorch/TensorFlow • LLM APIs • Vector DBs • Pydantic • FastAPI • React • Streamlit ..
