@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Paul Biswa
+# 👋🙏🏼 Hi, I'm Paul Biswa
 
-## 🚀 AI Product & Engineering Leader | Cognitive Architecture Specialist
+## 🚀 AI Product & Engineering Leader | Cognitive Architecture Specialist 🧠
 
 **Building autonomous AI systems that reason, decide, and act** through neuro-symbolic intelligence.
 
@@ -10,7 +10,7 @@ Drawing inspiration from Leonardo da Vinci and Nikola Tesla, I believe breakthro
 
 ---
 
-## 🔬 Featured Project: CogniFenceX
+## 🔬 Featured Project: CogniFenceX 
 
 ### **Cognitive Defense Architecture - Autonomous Threat Intelligence**
 
@@ -29,19 +29,12 @@ Pioneering neuro-symbolic system demonstrating how **cognitive reasoning enhance
 
 **🏗️ System Architecture:**
 ```
-Traditional Security    →    Cognitive Enhancement
-├─ Rule Engine              ├─ 🧠 LLM Reasoning
-├─ Pattern Matching         ├─ 🔗 Causal Analysis
-└─ Alert Generation         ├─ ⚖️ Neuro-Symbolic Fusion
-                            └─ 📋 Explainable Decisions
-```
-```
 ┌─────────────────────────────────────────────────────────┐
 │               EXISTING SECURITY SYSTEM                  │
 │         (Rules, Sensors, Logs - Already There)          │
 └───────────────────────┬─────────────────────────────────┘
-                    │
-                    ▼
+                        │
+                        ▼
 ┌─────────────────────────────────────────────────────────┐
 │      🧠 COGNITIVE LAYER (My Cognitive Value Add)        │
 ├─────────────────────────────────────────────────────────┤
@@ -51,12 +44,19 @@ Traditional Security    →    Cognitive Enhancement
 │  • Strategic Recommendations (WHAT to do?)              │
 │  • Explainable Decisions (HOW did we decide?)           │
 └───────────────────────┬─────────────────────────────────┘
-                    │
-                    ▼
+                        │
+                        ▼
 ┌─────────────────────────────────────────────────────────┐
 │         INTELLIGENT SECURITY DECISIONS                  │
 │      (Not just alerts, but strategic insight)           │
 └─────────────────────────────────────────────────────────┘ 
+```
+```
+Traditional Security    →    Cognitive Enhancement
+├─ Rule Engine              ├─ 🧠 LLM Reasoning
+├─ Pattern Matching         ├─ 🔗 Causal Analysis
+└─ Alert Generation         ├─ ⚖️ Neuro-Symbolic Fusion
+                            └─ 📋 Explainable Decisions
 ```
 
 **💡 My Value Add:**
@@ -73,7 +73,7 @@ he **CogniFenceX approach** transforms domains through:
 **Tech Stack:** 
  Python • LangChain • LangGraph • PyTorch/TensorFlow • LLM APIs • Vector DBs • Pydantic • FastAPI • React • Streamlit ..
 
-🔗 *[Private Repository - Architecture available for secure discussion]*
+🔗 *[Private Repository - Architecture partailly available for non-discolsure discussion only]*
 
 ---
 
