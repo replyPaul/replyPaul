@@ -34,8 +34,8 @@ Traditional Security    →    Cognitive Enhancement
 ├─ Pattern Matching         ├─ 🔗 Causal Analysis
 └─ Alert Generation         ├─ ⚖️ Neuro-Symbolic Fusion
                             └─ 📋 Explainable Decisions
-
-
+```
+```
 ┌─────────────────────────────────────────────────────────┐
 │               EXISTING SECURITY SYSTEM                  │
 │         (Rules, Sensors, Logs - Already There)          │
@@ -56,8 +56,7 @@ Traditional Security    →    Cognitive Enhancement
 ┌─────────────────────────────────────────────────────────┐
 │         INTELLIGENT SECURITY DECISIONS                  │
 │      (Not just alerts, but strategic insight)           │
-└─────────────────────────────────────────────────────────┘
-    
+└─────────────────────────────────────────────────────────┘ 
 ```
 
 **💡 My Value Add:**
@@ -315,7 +314,6 @@ This eclectic, curiosity-driven path fuels my unique approach: solving complex p
 
 ## 🌟 Featured Work
 
----
 
 ### 🛡️ **CogniFenceX** - Cognitive Defense Architecture
 *Private Repository*
