@@ -27,13 +27,37 @@ Pioneering neuro-symbolic system demonstrating how **cognitive reasoning enhance
 - **100% transparent decisions** - every classification has full audit trail
 - **Cross-domain applicability** - same architecture works for finance, cyber, space, healthcare, industrial IoT,..
 
-**🏗️ Architecture:**
+**🏗️ System Architecture:**
 ```
 Traditional Security    →    Cognitive Enhancement
 ├─ Rule Engine              ├─ 🧠 LLM Reasoning
 ├─ Pattern Matching         ├─ 🔗 Causal Analysis
 └─ Alert Generation         ├─ ⚖️ Neuro-Symbolic Fusion
                             └─ 📋 Explainable Decisions
+
+
+┌─────────────────────────────────────────────────────────┐
+│               EXISTING SECURITY SYSTEM                  │
+│         (Rules, Sensors, Logs - Already There)          │
+└───────────────────────┬─────────────────────────────────┘
+                    │
+                    ▼
+┌─────────────────────────────────────────────────────────┐
+│      🧠 COGNITIVE LAYER (My Cognitive Value Add)        │
+├─────────────────────────────────────────────────────────┤
+│  • Contextual Reasoning (LLM)                           │
+│  • Decision Intel (Quarantine & investigate)            │
+│  • Causal Analysis (WHY did this happen?)               │
+│  • Strategic Recommendations (WHAT to do?)              │
+│  • Explainable Decisions (HOW did we decide?)           │
+└───────────────────────┬─────────────────────────────────┘
+                    │
+                    ▼
+┌─────────────────────────────────────────────────────────┐
+│         INTELLIGENT SECURITY DECISIONS                  │
+│      (Not just alerts, but strategic insight)           │
+└─────────────────────────────────────────────────────────┘
+    
 ```
 
 **💡 My Value Add:**
@@ -282,9 +306,8 @@ This eclectic, curiosity-driven path fuels my unique approach: solving complex p
 
 ## 📊 GitHub Activity
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=replypaul&show_icons=true&theme=radical&hide=contribs)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=replypaul&layout=compact&theme=radical&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=replypaul&layout=compact&theme=radical&hide=html,css)](https://github.com/replypaul/github-readme-stats)
 
 *Note: Many recent projects (CogniFenceX, enterprise consulting, cognitive architectures) are in private repositories*
 
@@ -292,6 +315,7 @@ This eclectic, curiosity-driven path fuels my unique approach: solving complex p
 
 ## 🌟 Featured Work
 
+---
 
 ### 🛡️ **CogniFenceX** - Cognitive Defense Architecture
 *Private Repository*
