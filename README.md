@@ -408,7 +408,8 @@ RAG-powered agentic platform achieving 90% task success, 15-20% CAC reduction.
 - 💼 Let's connect [LinkedIn](https://linkedin.com/in/paulbiswa) 
 - 📧 Email:        replypaul@gmail.com
 - 🌍 Location:     Bengaluru, India (Open to Collabiorate Globally)
-- 💻 GitHub:       [https://github.com/replyPaul]
+- 💻 GitHub:       [my selected Repo](https://github.com/replyPaul)
+                    Note: Many recent projects (CogniFenceX and latest experiments, my consulting, cognitive versions) are in private repositories
 
 **Response Time:** Usually within 48 hours for only genuine collaboration inquiries
 
