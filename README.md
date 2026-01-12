@@ -292,6 +292,7 @@ This eclectic, curiosity-driven path fuels my unique approach: solving complex p
 
 ## 🌟 Featured Work
 
+
 ### 🛡️ **CogniFenceX** - Cognitive Defense Architecture
 *Private Repository*
 
@@ -382,10 +383,10 @@ RAG-powered agentic platform achieving 90% task success, 15-20% CAC reduction.
 ## 📫 Connect With Me
 
 **Professional:**
-- 💼 [LinkedIn](https://linkedin.com/in/paulbiswa) - Let's connect!
-- 📧 Email: replypaul@gmail.com
-- 🌍 Location: Bengaluru, India (Open to Collabiorate Globally)
-- 💻 GitHub: You're already exploring! 🚀
+- 💼 Let's connect [LinkedIn](https://linkedin.com/in/paulbiswa) 
+- 📧 Email:        replypaul@gmail.com
+- 🌍 Location:     Bengaluru, India (Open to Collabiorate Globally)
+- 💻 GitHub:       [https://github.com/replyPaul]
 
 **Response Time:** Usually within 48 hours for only genuine collaboration inquiries
 
